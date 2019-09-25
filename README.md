@@ -1,3 +1,3 @@
 # programming-problems
 programming problems from the book 'Programming Challenges, 
-Programming Contest Training Manual'
+The Programming Contest Training Manual'
